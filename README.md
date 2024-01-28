@@ -25,4 +25,4 @@ To install and run the Flutter Weather App locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Daniel-techgit/flutter-weather-app.git
+   git clone https://github.com/Daniel-techgit/weather-app-flutter.git
